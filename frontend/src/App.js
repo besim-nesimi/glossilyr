@@ -4,7 +4,6 @@ import './App.css';
 import Home from './components/Home';
 import Glossary from './components/Glossary';
 import React from 'react';
-
 function App() {
   return (
     <BrowserRouter>
